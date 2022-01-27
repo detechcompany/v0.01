@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">aos.sdk</string>
+
+    <string name="fragment_id_navi" translatable="false">navigation</string>
+    <string name="fragment_id_main" translatable="false">디이텍 AOS/SDK</string>
+
+    <string name="fragment_id_servicemain" translatable="false">서비스 메인</string>
+    <string name="frag_id_browser" translatable="false">커스텀 브라우저</string>
+    <string name="frag_id_browser_readcont" translatable="false">WEB 읽기</string>
+
+</resources>
